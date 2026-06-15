@@ -1,50 +1,27 @@
-# Hi, I'm Nurul Sofia 👋
+# Hi 👋 I'm Nurul Sofia
 
-### 💻 Software Engineering Student @ UniKL MIIT
-Passionate about building **full-stack web** and **mobile applications** that solve real-world problems.
+💻 Software Engineering Student @ UniKL MIIT
 
-🎓 Bachelor of Information Technology (Hons) in Software Engineering  
-🌱 Currently learning Software Quality, Testing & Modern Web Development  
-📍 Malaysia
-
----
-
-## 🚀 Tech Stack
-
-**Languages**
-PHP • JavaScript • SQL • C# • HTML • CSS
-
-**Frameworks & Tools**
-Flutter • MySQL • Bootstrap • Git • GitHub • VS Code • XAMPP
+🌐 Full-Stack Web Developer  
+📱 Mobile App Developer  
+🛠️ PHP • Flutter • JavaScript • MySQL  
+🚀 Building practical software solutions through academic and personal projects
 
 ---
 
-## 📌 Featured Projects
-
-🖨️ **PrintBuddy Express**
-> Full-stack printing service management system with authentication, payments, order tracking, and admin dashboard.
-
-🌳 **Forest Management System**
-> Forestry management platform with timber analysis, automated calculations, and data visualization.
-
-🍔 **Food Truck Booking App**
-> Flutter mobile application with booking, payment, reviews, and user management.
-
-🚢 **BlueHaul Ferry Booking System**
-> Online ferry reservation system with ticket booking, fare calculation, and booking history.
+### Currently Working On
+- 🌱 Improving my Full-Stack Development skills
+- 📱 Learning modern web technologies
+- 💡 Building projects to strengthen my software engineering portfolio
 
 ---
 
-## 🎯 Interests
-
-- Full-Stack Web Development
-- Mobile App Development
-- Database Design
-- Software Engineering
-- UI/UX Design
+### Featured Projects
+🖨️ PrintBuddy Express  
+🌳 Forest Management System  
+🍔 Food Truck Booking App  
+🚢 BlueHaul Ferry Booking System
 
 ---
 
-## 📫 Connect with Me
-
-📧 nsofia031123@gmail.com
+> *"Always learning, always building."*
